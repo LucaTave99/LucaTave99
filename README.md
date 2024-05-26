@@ -10,4 +10,4 @@
 
 📬 How to reach me:
 * Luca.taverna1999@gmail.com
-* linkedin.com/in/luca-taverna
+* [linkedin.com/in/luca-taverna](www.linkedin.com/in/luca-taverna)

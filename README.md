@@ -1,5 +1,5 @@
 # Luca Taverna's Github Profile 🤖
-📚 Master Degree student in Computer Science and Software Engineering at University of Parma.
+📚 Master Degree student in Software Engineering at University of Parma.
 
 ## About me 📂
 👷 I’m currently working on IoT devices, developing a multi-interface gateway that allows the exhange of data between heterogeneous networks like WiFi and LoRaWAN. 
